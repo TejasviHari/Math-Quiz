@@ -1,0 +1,11 @@
+body{
+    background-image: url("back.jpg");
+}
+
+.login_div{
+background-color:whitesmoke;
+float: none;
+border-radius: 15px;
+padding: 10px;
+margin-top: 30px;
+}
